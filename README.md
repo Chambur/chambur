@@ -3,16 +3,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Samuel+Cruz;Software+Developer;FullStack+Developer;samu.lp22%40gmail.com">
 </p>
 
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Mobile Development**
 
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 💬 Ask me about **how to implement your ideas in your project**
 
-- 💬 Ask me about **React,React Native, Next.js, Node.js**
+- 📫 Reach me at **samu.lp22@gmail.com**
 
-- 📫 Reach me at **ahmadpiracha3@gmail.com**
 
-- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
 
 
 ### Connect with me 🔗 :
